@@ -1,0 +1,44 @@
+{
+  "logo": "Sailmate.",
+  "drawer": {
+    "profileTitle": "My profile",
+    "routesTitle": "Saved routes",
+    "tracksTitle": "Saved tracks",
+    "placesTitle": "Saved places",
+    "offlineChartTitle": "Download offline maps",
+    "settingsTitle": "Settings",
+    "subscriptionsTitle": "Subscriptions",
+    "helpTitle": "Help center",
+    "termsTitle": "Term & conditions",
+    "logoutTitle": "Logout",
+    "settings": {
+      "changeLanguage": "Change language"
+    }
+  },
+  "login": {
+    "signIn": "Sign in",
+    "emailInput": "Email",
+    "getCodeButton": "Get code",
+    "inputToken": "Fill in token"
+  },
+  "poi": {
+    "distance": "kilometers from you",
+    "places": "Berthing Places",
+    "depth": "Depth",
+    "description": "Description"
+  },
+  "onboarding": {
+    "onboarding1": {
+      "title": "Navigation and tracking",
+      "detail": "Aliqua id fugiat nostrud irure ex quis id quis adet. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut volupate aute id deserunt nisi."
+    },
+    "onboarding2": {
+      "title": "Plan and routes",
+      "detail": "Aliqua id fugiat nostrud irure ex quis id quis adet. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut volupate aute id deserunt nisi."
+    },
+    "onboarding3": {
+      "title": "Save your places and add notes",
+      "detail": "Aliqua id fugiat nostrud irure ex quis id quis adet. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut volupate aute id deserunt nisi."
+    }
+  }
+}

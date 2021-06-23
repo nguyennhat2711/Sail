@@ -1,0 +1,36 @@
+{
+  "version": 8,
+  "sources": {
+    "sailmate": {
+      "type": "raster",
+      "tiles": [
+        "https://mapserver.sailmate.fi/fi/xyz/2018/{z}/{x}/{y}.png"
+      ],
+      "tileSize": 256,
+      "attribution": ""
+    },
+    "mapbox-streets": {
+      "type": "raster",
+      "tiles": [
+        "http://127.0.0.1:8080/tiles/{z}/{x}/{y}"
+      ],
+      "tileSize": 1024
+    }
+  },
+  "layers": [
+    {
+      "id": "mapbox-streets",
+      "type": "raster",
+      "source": "mapbox-streets",
+      "minzoom": 0,
+      "maxzoom": 22
+    },
+    {
+      "id": "sailmate",
+      "type": "raster",
+      "source": "sailmate",
+      "minzoom": 0,
+      "maxzoom": 22
+    }
+  ]
+}

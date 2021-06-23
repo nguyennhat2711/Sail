@@ -1,0 +1,44 @@
+{
+  "logo": "Sailmate.",
+  "drawer": {
+    "helpTitle": "Käytön tuki",
+    "logoutTitle": "Kirjaudu ulos",
+    "offlineChartTitle": "Lataa kartat laitteeseen",
+    "placesTitle": "Omat kohteet",
+    "profileTitle": "Profiili",
+    "routesTitle": "Tallennetut reitit",
+    "settingsTitle": "Asetukset",
+    "subscriptionsTitle": "Tilaukset",
+    "termsTitle": "Käyttöehdot",
+    "tracksTitle": "Tallennetut jäljet",
+    "settings": {
+      "changeLanguage": "Vaihda kieli"
+    }
+  },
+  "login": {
+    "signIn": "Kirjaudu",
+    "emailInput": "Sähköposti",
+    "getCodeButton": "Lähetä koodi",
+    "inputToken": "Syötä koodi"
+  },
+  "poi": {
+    "distance": "kilometrin päässä",
+    "places": "Vieraspaikkoja",
+    "depth": "Syvyys",
+    "description": "Kuvaus"
+  },
+  "onboarding": {
+    "onboarding1": {
+      "title": "Navigation and tracking",
+      "detail": "Aliqua id fugiat nostrud irure ex quis id quis adet. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut volupate aute id deserunt nisi."
+    },
+    "onboarding2": {
+      "title": "Plan and routes",
+      "detail": "Aliqua id fugiat nostrud irure ex quis id quis adet. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut volupate aute id deserunt nisi."
+    },
+    "onboarding3": {
+      "title": "Save your places and add notes",
+      "detail": "Aliqua id fugiat nostrud irure ex quis id quis adet. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut volupate aute id deserunt nisi."
+    }
+  }
+}
